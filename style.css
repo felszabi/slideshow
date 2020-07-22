@@ -11,6 +11,7 @@
   display: table-row;
   line-height: 600px;
   overflow: hidden;
+  width: 400px;
 }
 
 .hidden{
